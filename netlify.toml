@@ -1,0 +1,3 @@
+# Archive review branch only. Never deploy this branch as a website.
+[build]
+  ignore = "exit 0"
