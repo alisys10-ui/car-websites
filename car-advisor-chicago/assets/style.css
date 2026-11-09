@@ -1,0 +1,236 @@
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;color:#17253b;background:#f5f8fc}a{color:inherit}header{background:#fff;display:flex;justify-content:space-between;align-items:center;padding:18px max(5%,calc((100% - 1120px)/2));gap:16px;flex-wrap:wrap}header strong{font-size:21px;color:#123d72}nav{display:flex;gap:12px}nav a{font-size:14px;text-decoration:none;padding:8px;border-radius:6px;background:#eef4fb}.hero{background:linear-gradient(120deg,#0c2a50,#14609b);color:white;padding:85px 6%}.wrap{max-width:1080px;margin:auto}.eyebrow{font-weight:700;color:#9ed8ff;letter-spacing:.04em}h1{font-size:clamp(34px,5vw,60px);line-height:1.15;max-width:850px;margin:16px 0}p.lead{font-size:20px;line-height:1.8;max-width:850px}.btn{display:inline-block;background:#f9bd46;color:#102d50;text-decoration:none;border:0;border-radius:9px;padding:15px 22px;font-weight:800;cursor:pointer;margin:10px 8px 0 0}.btn.alt{background:white}section{padding:60px 6%}h2{font-size:30px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px}.card{padding:24px;background:white;border-radius:14px;box-shadow:0 4px 18px #152d4a12;font-weight:700}form{background:white;border-radius:16px;padding:28px;max-width:740px;box-shadow:0 5px 20px #122e5015}.fields{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}label{display:block;font-weight:600}input{display:block;width:100%;padding:13px;border:1px solid #b9c6d5;border-radius:7px;margin-top:6px;font-size:16px}small{display:block;line-height:1.7;margin-top:16px;color:#4b5a6b}footer{text-align:center;background:#0c2a50;color:white;padding:28px}.ali-photo{display:block;width:min(100%,640px);max-height:360px;object-fit:cover;object-position:center;border-radius:16px;margin:0 0 26px;box-shadow:0 12px 35px #07182c55}
+
+.car-gallery{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:14px;margin:22px 0}
+.car-item{background:#fff;border:1px solid #dbe3ee;border-radius:14px;overflow:hidden;box-shadow:0 4px 16px #12223a12;padding-bottom:14px}
+.car-item img{width:100%;height:155px;object-fit:cover;display:block}
+.car-item h3{font-size:17px;margin:12px 12px 2px}.car-item p{margin:0 12px 12px}
+.car-item .btn{display:block;text-align:center;margin:0 10px;padding:11px 7px;font-size:13px}
+@media(max-width:1000px){.car-gallery{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:620px){.car-gallery{grid-template-columns:repeat(2,minmax(0,1fr))}.car-item img{height:125px}}
+
+.reliable-gallery{grid-template-columns:repeat(3,minmax(0,1fr))}
+@media(max-width:620px){.reliable-gallery{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+/* Final refinements: full-blue top, fixed LTR brand and numbers */
+body{background:#f5f8fc}header{background:#0c2a50;color:#fff;direction:ltr;border:0;min-height:75px}header strong{color:#fff;direction:ltr;text-align:left;unicode-bidi:isolate}header nav{direction:ltr}header nav a{background:#19416c;color:#fff}header nav a:hover{background:#245a91}.hero{padding-top:28px}.phone-ltr{direction:ltr;unicode-bidi:isolate;display:inline-block;white-space:nowrap}input[type="tel"]{direction:ltr;text-align:left}a[href^="tel:"]{unicode-bidi:isolate} .ali-photo{width:min(100%,900px);max-height:450px;object-fit:contain;object-position:center;background:#0c2a50} @media(max-width:620px){header{padding:12px 5%}.hero{padding-top:18px}}
+
+
+/* CarAdvisorChicago premium black theme — all three languages */
+:root {
+  color-scheme: dark;
+  --black: #08090b;
+  --charcoal: #111319;
+  --surface: #191c23;
+  --line: #30343e;
+  --text: #f5f6f8;
+  --muted: #b7bdc8;
+  --accent: #f3bf55;
+}
+html { background: var(--black); }
+body { background: var(--black); color: var(--text); }
+header {
+  background: #08090b;
+  color: var(--text);
+  border-bottom: 1px solid #282b32;
+}
+header strong { color: #fff; }
+header nav a {
+  background: #1b1f27;
+  color: #f2f4f7;
+  border: 1px solid #323640;
+}
+header nav a:hover, header nav a:focus-visible {
+  background: #313743;
+  color: #fff;
+}
+.hero {
+  background: linear-gradient(135deg, #08090b 0%, #151820 58%, #08090b 100%);
+  color: var(--text);
+  border-bottom: 1px solid #282b32;
+}
+.eyebrow { color: var(--accent); }
+h1, h2, h3 { color: #fff; }
+p, label { color: var(--text); }
+p.lead { color: #e0e3e9; }
+section { background: #0d0f13; }
+section:nth-of-type(even) { background: #12151b; }
+.card, .car-item, form {
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--line);
+  box-shadow: 0 6px 24px #00000035;
+}
+.car-item h3, .card { color: #f6f7fb; }
+.car-item p, section p:not(.lead) { color: #d6dae2; }
+small { color: var(--muted); }
+input, select, textarea {
+  color: #f7f8fa;
+  background: #0c0e13;
+  border: 1px solid #626977;
+}
+input:focus, select:focus, textarea:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+  border-color: var(--accent);
+}
+input::placeholder { color: #a6acb8; }
+.btn, button.btn {
+  background: var(--accent);
+  color: #131313;
+}
+.btn:hover, .btn:focus-visible {
+  background: #ffd578;
+  color: #090909;
+}
+.btn.alt {
+  background: #292e37;
+  border: 1px solid #565c68;
+  color: #fff;
+}
+.btn.alt:hover, .btn.alt:focus-visible {
+  background: #3a414d;
+  color: #fff;
+}
+footer {
+  background: #07080a;
+  color: #dce0e7;
+  border-top: 1px solid #292d35;
+}
+footer a { color: var(--accent); }
+.ali-photo {
+  background: #0e1015;
+  border: 1px solid #373b45;
+  box-shadow: 0 12px 35px #00000065;
+}
+::selection { background: #e4b154; color: #111; }
+
+/* Brand alignment: Car Advisor Chicago, consistent across all languages */
+header strong { direction:ltr; text-align:left; unicode-bidi:isolate; }
+.brand-hero-media {
+  width:min(100%,980px); min-height:360px; display:flex; direction:ltr;
+  background:#11151c; border:1px solid #343943; border-radius:16px;
+  overflow:hidden; margin:0 0 26px; box-shadow:0 12px 35px #00000065;
+}
+.brand-hero-photo {
+  width:330px; min-width:330px; height:395px; flex-shrink:0;
+  background: url('ali-portrait-clear.jpg') center 22% / cover no-repeat;
+}
+
+.brand-hero-copy {
+  display:flex; flex:1; flex-direction:column; justify-content:center;
+  align-items:flex-start; padding:28px 26px; gap:16px;
+  border-left:1px solid #353944; text-align:left;
+}
+.brand-hero-wordmark {
+  font-size:clamp(30px,4.1vw,54px); font-weight:900; line-height:1.1;
+  letter-spacing:-.03em; color:#fff; max-width:520px;
+}
+.brand-hero-wordmark span { color:#f3bf55; }
+.brand-hero-caption {
+  font-size:clamp(12px,1.4vw,16px); font-weight:700;
+  letter-spacing:.05em; color:#e8e9ee; line-height:1.8;
+}
+@media(max-width:620px) {
+ .brand-hero-media { min-height:230px; }
+ .brand-hero-photo { width:42%; min-width:42%; height:265px; background-position:center 20%; }
+ .brand-hero-copy { padding:18px 12px; gap:9px; }
+ .brand-hero-wordmark { font-size:clamp(21px,5vw,33px); }
+ .brand-hero-caption { font-size:11px; letter-spacing:0; line-height:1.5; }
+}
+
+/* Monthly Auto Loan Calculator — isolated from the rest of the site */
+.loan-calc-section {
+  background:#0b0d12 !important;
+  border-top:1px solid #30343d;
+  padding:64px 18px 76px;
+  color:#f6f7fb;
+}
+.loan-calc-section *{box-sizing:border-box}
+.loan-calc-section .loan-calc-head{margin-bottom:26px}
+.loan-calc-section h2{font-size:clamp(25px,4vw,36px);margin:8px 0 10px}
+.loan-calc-section p{color:#cfd3dd!important}
+.loan-calc-layout {
+  display:grid;grid-template-columns:minmax(0,1.45fr) minmax(270px,1fr);
+  gap:22px;align-items:start;
+}
+.loan-calc-fields {
+  display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;
+  padding:23px;border:1px solid #343946;border-radius:18px;background:#151820;
+}
+.loan-field{display:block!important;min-width:0;color:#f4f6fa!important;font-weight:650;font-size:14px}
+.loan-field span{display:block;margin:0 0 8px}
+.loan-calc-section .loan-field input,
+.loan-calc-section .loan-field select {
+  display:block;width:100%;height:48px;border:1px solid #626a79;
+  background:#090b10!important;color:#f8f9fa!important;
+  border-radius:9px;padding:10px 12px;font:inherit;font-size:16px;
+  direction:ltr;text-align:left;outline-offset:2px;
+}
+.loan-calc-section .loan-field input:focus-visible,
+.loan-calc-section .loan-field select:focus-visible {
+  border-color:#f3bf55;outline:2px solid #f3bf55;
+}
+.loan-calc-results {
+  border-radius:18px;padding:26px 22px;background:linear-gradient(145deg,#21242c,#111318);
+  border:1px solid #46403a;box-shadow:0 10px 28px #0006;
+}
+.loan-payment-label{font-weight:700;color:#eef1f6}
+.loan-payment-number{display:block;margin:8px 0 22px;color:#f3bf55!important;
+  font-size:clamp(32px,5vw,47px);line-height:1.15;font-weight:850;
+  text-align:start;white-space:nowrap;font-variant-numeric:tabular-nums}
+.loan-breakdown{margin:0}
+.loan-breakdown div{display:flex;justify-content:space-between;gap:20px;
+  border-top:1px solid #343a45;padding:12px 0;align-items:baseline}
+.loan-breakdown dt{color:#d8dce5;font-size:14px}
+.loan-breakdown dd{margin:0;color:#fff;font-weight:750;font-variant-numeric:tabular-nums;white-space:nowrap}
+.loan-rate-hint{margin:16px 0 0;font-size:12px}
+.loan-error{color:#ffbc8f!important;font-size:14px}
+.loan-schedule{
+  border:1px solid #333943;background:#161921;border-radius:12px;
+  margin-top:23px;overflow:hidden
+}
+.loan-schedule summary{
+  cursor:pointer;display:list-item;padding:17px 23px;font-weight:700;
+  color:#f3bf55;list-style-position:inside
+}
+.loan-schedule-scroll{max-height:480px;overflow:auto;padding:0 10px 12px}
+.loan-schedule table{width:100%;border-collapse:collapse;font-size:13px;min-width:550px;direction:ltr}
+.loan-schedule th,.loan-schedule td{border-bottom:1px solid #323640;padding:10px 9px;text-align:right;white-space:nowrap}
+.loan-schedule th{position:sticky;top:0;background:#252a33;color:#f4f5f7}
+.loan-schedule td{color:#e7eaf1;font-variant-numeric:tabular-nums}
+.loan-calc-section .loan-disclaimer{font-size:12px;color:#bac0cc!important;line-height:1.8;margin-top:20px}
+@media(max-width:740px){
+  .loan-calc-layout{grid-template-columns:1fr}
+  .loan-calc-fields{padding:16px;gap:13px}
+}
+@media(max-width:440px){
+  .loan-calc-fields{grid-template-columns:1fr}
+  .loan-calc-results{padding:22px 18px}
+  .loan-calc-section{padding:44px 15px 58px}
+}
+
+/* Mobile hero: show the complete face, not a narrow cropped strip */
+@media (max-width:620px) {
+  .brand-hero-media {
+    display:flex; flex-direction:column; width:100%; min-height:0;
+    gap:0; overflow:hidden; border-radius:18px;
+  }
+  .brand-hero-photo {
+    display:block; width:100%; min-width:100%; height:310px;
+    flex:none; background-image:url('ali-portrait-clear.jpg');
+    background-size:cover; background-repeat:no-repeat;
+    background-position:center 31%;
+  }
+  .brand-hero-copy {
+    width:100%; min-width:0; border-left:0; border-top:1px solid #353944;
+    padding:20px 16px 22px; align-items:center; text-align:center; gap:10px;
+  }
+  .brand-hero-wordmark {font-size:clamp(23px,7vw,32px); line-height:1.15;}
+  .brand-hero-caption {font-size:12px; line-height:1.6;}
+}
+
+
+.hero-banner-art{display:block;width:min(100%,980px);margin:0 0 24px;border-radius:18px;box-shadow:0 12px 35px rgba(7,24,44,.22);background:#fff}
+@media(max-width:620px){.hero-banner-art{width:100%;margin:0 0 18px;border-radius:14px;}}
+
+.loan-calc-section .loan-field input[readonly]{opacity:.8;cursor:default;background:#242830!important;border-color:#4a5060;}

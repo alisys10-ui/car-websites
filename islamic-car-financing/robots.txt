@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://islamic-car-finance-usa.netlify.app/sitemap.xml

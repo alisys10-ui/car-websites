@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mycaradvisor.netlify.app/sitemap.xml
