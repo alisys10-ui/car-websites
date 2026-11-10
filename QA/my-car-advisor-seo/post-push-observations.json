@@ -1,0 +1,146 @@
+{
+  "sourceCommit": "7126a9e8c0bfda902ab6d2f6f80a122741f1f975",
+  "scope": "My Car Advisor only",
+  "liveReadablePages": 22,
+  "pages": [
+    {
+      "url": "https://mycaradvisor.netlify.app/chicago-mazda-shopping/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/indiana-car-buying/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/inventory/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-30/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-5/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-50-hybrid/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-50/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-90/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda3/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mx-5-miata/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/privacy/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-cars-5000-10000/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-cars-under-10000/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-cars-under-20000/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-30/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-5/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-50-hybrid/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-50/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-90/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda3/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/wisconsin-car-buying/",
+      "readableViaWebTool": true,
+      "liveHTTPStatusVerified": false,
+      "liveHeadersVerified": false
+    }
+  ],
+  "changedContentObservedLive": [
+    "https://mycaradvisor.netlify.app/mazda-cx-5/",
+    "https://mycaradvisor.netlify.app/used-cars-under-10000/",
+    "https://mycaradvisor.netlify.app/inventory/"
+  ],
+  "liveRobotsAndSitemapVerified": false,
+  "limitation": "Direct HTTPS denied by session network policy; web tool reads HTML but does not expose response headers and could not retrieve robots.txt or sitemap.xml. No Search Console access or actual Googlebot crawl is asserted."
+}

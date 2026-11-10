@@ -46,3 +46,9 @@ Wait for the new commit to be Published on Netlify, not a fixed number of hours.
 5. Monitor Page indexing and Performance. Crawling/indexing can take days to weeks; sitemap submission or a request does not guarantee inclusion or new customers.
 
 Primary guidance: https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls and https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl . Netlify routing behavior: https://docs.netlify.com/manage/routing/redirects/redirect-options/ .
+
+## Observed after the source push
+
+Source commit `7126a9e` was pushed to main. All 22 canonical HTML pages were readable through the connected web reader after the push; the newly rewritten CX-5, budget and inventory content was visible on the live site. This supports that the automatic site update took effect, but is not a substitute for inspecting Netlify's Published status or testing the live response headers.
+
+Direct production HTTP/header checks and direct live robots/sitemap retrieval remain unverified because of the session network restriction/tool limitations. The 22 HTTP-200 checks and 301 assertions in netlify-local-results.json are specifically local Netlify CLI results. See post-push-observations.json for the separate live readability observations.
