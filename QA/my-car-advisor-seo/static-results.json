@@ -1,0 +1,165 @@
+{
+  "scope": "My Car Advisor only",
+  "sitemapCount": 22,
+  "discoverable": 22,
+  "distinctTitles": 22,
+  "distinctDescriptions": 22,
+  "cssAndImagesUnchanged": true,
+  "pages": [
+    {
+      "url": "https://mycaradvisor.netlify.app/chicago-mazda-shopping/",
+      "canonical": "https://mycaradvisor.netlify.app/chicago-mazda-shopping/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/",
+      "canonical": "https://mycaradvisor.netlify.app/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/indiana-car-buying/",
+      "canonical": "https://mycaradvisor.netlify.app/indiana-car-buying/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/inventory/",
+      "canonical": "https://mycaradvisor.netlify.app/inventory/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-30/",
+      "canonical": "https://mycaradvisor.netlify.app/mazda-cx-30/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-5/",
+      "canonical": "https://mycaradvisor.netlify.app/mazda-cx-5/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-50-hybrid/",
+      "canonical": "https://mycaradvisor.netlify.app/mazda-cx-50-hybrid/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-50/",
+      "canonical": "https://mycaradvisor.netlify.app/mazda-cx-50/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-90/",
+      "canonical": "https://mycaradvisor.netlify.app/mazda-cx-90/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda3/",
+      "canonical": "https://mycaradvisor.netlify.app/mazda3/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mx-5-miata/",
+      "canonical": "https://mycaradvisor.netlify.app/mx-5-miata/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/privacy/",
+      "canonical": "https://mycaradvisor.netlify.app/privacy/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-cars-5000-10000/",
+      "canonical": "https://mycaradvisor.netlify.app/used-cars-5000-10000/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-cars-under-10000/",
+      "canonical": "https://mycaradvisor.netlify.app/used-cars-under-10000/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-cars-under-20000/",
+      "canonical": "https://mycaradvisor.netlify.app/used-cars-under-20000/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-30/",
+      "canonical": "https://mycaradvisor.netlify.app/used-mazda-cx-30/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-5/",
+      "canonical": "https://mycaradvisor.netlify.app/used-mazda-cx-5/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-50-hybrid/",
+      "canonical": "https://mycaradvisor.netlify.app/used-mazda-cx-50-hybrid/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-50/",
+      "canonical": "https://mycaradvisor.netlify.app/used-mazda-cx-50/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-90/",
+      "canonical": "https://mycaradvisor.netlify.app/used-mazda-cx-90/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda3/",
+      "canonical": "https://mycaradvisor.netlify.app/used-mazda3/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/wisconsin-car-buying/",
+      "canonical": "https://mycaradvisor.netlify.app/wisconsin-car-buying/",
+      "schemaGraphs": 1,
+      "indexAllowed": true,
+      "localAssetsAndLinks": "pass"
+    }
+  ],
+  "failures": []
+}

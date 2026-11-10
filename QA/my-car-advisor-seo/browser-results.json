@@ -1,0 +1,401 @@
+{
+  "pages": [
+    {
+      "url": "https://mycaradvisor.netlify.app/chicago-mazda-shopping/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/indiana-car-buying/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/inventory/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-30/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-5/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-50-hybrid/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-50/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-90/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda3/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mx-5-miata/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/privacy/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-cars-5000-10000/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-cars-under-10000/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-cars-under-20000/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-30/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-5/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-50-hybrid/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-50/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-90/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda3/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/wisconsin-car-buying/",
+      "viewport": 390,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/chicago-mazda-shopping/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/indiana-car-buying/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/inventory/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-30/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-5/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-50-hybrid/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-50/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-90/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda3/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mx-5-miata/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/privacy/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-cars-5000-10000/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-cars-under-10000/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-cars-under-20000/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-30/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-5/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-50-hybrid/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-50/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-90/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda3/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/wisconsin-car-buying/",
+      "viewport": 1440,
+      "HTTP": 200,
+      "canonical": true,
+      "schema": true,
+      "layout": true,
+      "formAndChat": true
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,206 @@
+{
+  "base": "http://localhost:8890",
+  "tested": 22,
+  "passed": 22,
+  "pages": [
+    {
+      "url": "https://mycaradvisor.netlify.app/chicago-mazda-shopping/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/chicago-mazda-shopping/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": "not applicable",
+      "slashlessAliasHTTP": "not applicable"
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/indiana-car-buying/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/indiana-car-buying/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/inventory/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/inventory/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-30/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/mazda-cx-30/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-5/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/mazda-cx-5/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-50-hybrid/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/mazda-cx-50-hybrid/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-50/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/mazda-cx-50/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda-cx-90/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/mazda-cx-90/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mazda3/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/mazda3/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/mx-5-miata/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/mx-5-miata/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/privacy/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/privacy/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-cars-5000-10000/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/used-cars-5000-10000/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-cars-under-10000/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/used-cars-under-10000/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-cars-under-20000/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/used-cars-under-20000/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-30/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/used-mazda-cx-30/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-5/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/used-mazda-cx-5/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-50-hybrid/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/used-mazda-cx-50-hybrid/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-50/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/used-mazda-cx-50/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda-cx-90/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/used-mazda-cx-90/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/used-mazda3/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/used-mazda3/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    },
+    {
+      "url": "https://mycaradvisor.netlify.app/wisconsin-car-buying/",
+      "HTTP": 200,
+      "googlebotHTTP": 200,
+      "canonical": "https://mycaradvisor.netlify.app/wisconsin-car-buying/",
+      "indexAllowed": true,
+      "legacyHTMLRedirect": 301,
+      "slashlessAliasHTTP": 200
+    }
+  ],
+  "failures": []
+}

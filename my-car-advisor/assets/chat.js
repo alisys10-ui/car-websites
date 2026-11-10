@@ -102,7 +102,7 @@
   const payload=new URLSearchParams(new FormData(form));
   const send=form.querySelector('[type=submit]');submitting=true;send.disabled=true;status.textContent=local('Sending your request…','جارٍ إرسال طلبك…','Enviando su solicitud…');
   try{
-   const response=await fetch('/thank-you.html',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:payload.toString(),signal:AbortSignal.timeout(15000)});
+   const response=await fetch('/thank-you/',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:payload.toString(),signal:AbortSignal.timeout(15000)});
    if(!response.ok)throw Error('submission');
    completed=true;form.reset();answers={};selected=null;index=0;
    document.getElementById('mca-chat-review').replaceChildren();

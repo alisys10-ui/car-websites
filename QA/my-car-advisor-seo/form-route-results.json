@@ -1,0 +1,8 @@
+{
+  "mocked": true,
+  "realEmailsSent": 0,
+  "mainForm": "pass",
+  "chatForm": "pass",
+  "destination": "/thank-you/",
+  "source": "/mazda-cx-30/"
+}

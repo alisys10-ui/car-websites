@@ -5,3 +5,9 @@
   NODE_VERSION = "22"
 [functions]
   node_bundler = "esbuild"
+
+# Canonical pages use physical directories with index.html.
+[build.processing]
+  skip_processing = false
+[build.processing.html]
+  pretty_urls = true

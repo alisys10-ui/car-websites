@@ -1,1 +1,3 @@
 Review package only. Read ../README-SETUP.md and ../CHANGE-REPORT.md before launch. This folder is a separate Netlify site. Use this folder as the base directory, retain netlify.toml, and deploy with Functions support. A static drag-and-drop ZIP alone will not install AI/inventory functions. Sole notification inbox: alisys10@gmail.com. No key is included. Live stock, real AI replies and inbox delivery still need verification.
+
+SEO update: canonical page URLs now use /slug/ and physical slug/index.html files; legacy .html URLs redirect permanently. See ../QA/my-car-advisor-seo/README.md for test evidence and the post-deployment Search Console steps. The dated download ZIP remains the earlier review snapshot, not this later SEO change.
