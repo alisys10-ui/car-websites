@@ -1,0 +1,5 @@
+import http from 'node:http';import fs from 'node:fs/promises';import path from 'node:path';
+const root=path.resolve(import.meta.dirname,'..');
+for(const [i,site] of ['my-car-advisor','car-advisor-chicago','islamic-car-financing'].entries()){
+ const server=http.createServer(async(req,res)=>{try{const u=new URL(req.url,'http://localhost');if(u.pathname.startsWith('/api/')){res.writeHead(503,{'Content-Type':'application/json'});res.end(JSON.stringify({error:'Local preview: backend not configured'}));return}let p=path.resolve(root,site,'.'+decodeURIComponent(u.pathname));if(!p.startsWith(path.join(root,site)+'/')&&p!==path.join(root,site)){res.writeHead(403);res.end();return}if((await fs.stat(p)).isDirectory())p=path.join(p,'index.html');const body=await fs.readFile(p);res.writeHead(200,{'Content-Type':({'.html':'text/html','.css':'text/css','.js':'text/javascript','.svg':'image/svg+xml','.png':'image/png','.webp':'image/webp','.jpg':'image/jpeg'})[path.extname(p)]||'application/octet-stream'});res.end(body)}catch{res.writeHead(404);res.end('Not found')}});server.listen(8800+i,'0.0.0.0',()=>console.log(site,8800+i))
+}

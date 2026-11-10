@@ -1,0 +1,432 @@
+{
+  "pages": [
+    {
+      "site": "my-car-advisor",
+      "page": "404.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "chicago-mazda-shopping.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "index.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "indiana-car-buying.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "inventory.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "mazda-cx-30.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "mazda-cx-5.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "mazda-cx-50-hybrid.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "mazda-cx-50.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "mazda-cx-90.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "mazda3.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "mx-5-miata.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "privacy.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "thank-you.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "used-cars-5000-10000.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "used-cars-under-10000.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "used-cars-under-20000.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "used-mazda-cx-30.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "used-mazda-cx-5.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "used-mazda-cx-50-hybrid.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "used-mazda-cx-50.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "used-mazda-cx-90.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "used-mazda3.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "wisconsin-car-buying.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "404.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "ar/index.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "chicago-budget-guide.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "en/index.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "es/index.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "index.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "indiana-used-car-checklist.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "inventory.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "privacy.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "thank-you.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "wisconsin-used-car-checklist.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "404.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "arabic/index.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "california/index.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "chicago/index.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "dallas/index.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "dearborn/index.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "detroit/index.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "florida/index.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "houston/index.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "illinois-contract-checklist.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "index.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "indiana-financing-questions.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "inventory.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "maryland/index.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "new-jersey/index.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "new-york/index.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "privacy.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "texas/index.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "thank-you.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "virginia/index.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "wisconsin-financing-questions.html",
+      "mobile": "pass",
+      "forms": "pass",
+      "guidedChat": "pass"
+    }
+  ],
+  "failures": [],
+  "behavior": [
+    {
+      "site": "my-car-advisor",
+      "inventory10": true,
+      "noDealerReferrals": true,
+      "leadPrefill": true,
+      "aiConsent": true,
+      "piiGuard": true,
+      "mockedAI": true,
+      "aiOutage": true,
+      "calculator": "pass where present"
+    },
+    {
+      "site": "car-advisor-chicago",
+      "inventory10": true,
+      "noDealerReferrals": true,
+      "leadPrefill": true,
+      "aiConsent": true,
+      "piiGuard": true,
+      "mockedAI": true,
+      "aiOutage": true,
+      "calculator": "pass where present"
+    },
+    {
+      "site": "islamic-car-financing",
+      "inventory10": true,
+      "noDealerReferrals": true,
+      "leadPrefill": true,
+      "aiConsent": true,
+      "piiGuard": true,
+      "mockedAI": true,
+      "aiOutage": true,
+      "calculator": "pass where present"
+    }
+  ]
+}

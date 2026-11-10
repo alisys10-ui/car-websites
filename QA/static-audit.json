@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "islamic-car-financing": {
+      "pages": 21,
+      "netlifyForms": 38
+    },
+    "my-car-advisor": {
+      "pages": 24,
+      "netlifyForms": 44
+    },
+    "car-advisor-chicago": {
+      "pages": 11,
+      "netlifyForms": 18
+    }
+  },
+  "issues": []
+}

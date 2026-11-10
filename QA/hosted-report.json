@@ -1,0 +1,314 @@
+{
+  "desktop": [
+    {
+      "site": "my-car-advisor",
+      "page": "404.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "chicago-mazda-shopping.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "index.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "indiana-car-buying.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "inventory.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "mazda-cx-30.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "mazda-cx-5.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "mazda-cx-50-hybrid.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "mazda-cx-50.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "mazda-cx-90.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "mazda3.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "mx-5-miata.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "privacy.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "thank-you.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "used-cars-5000-10000.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "used-cars-under-10000.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "used-cars-under-20000.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "used-mazda-cx-30.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "used-mazda-cx-5.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "used-mazda-cx-50-hybrid.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "used-mazda-cx-50.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "used-mazda-cx-90.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "used-mazda3.html",
+      "pass": true
+    },
+    {
+      "site": "my-car-advisor",
+      "page": "wisconsin-car-buying.html",
+      "pass": true
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "404.html",
+      "pass": true
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "ar/index.html",
+      "pass": true
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "chicago-budget-guide.html",
+      "pass": true
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "en/index.html",
+      "pass": true
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "es/index.html",
+      "pass": true
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "index.html",
+      "pass": true
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "indiana-used-car-checklist.html",
+      "pass": true
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "inventory.html",
+      "pass": true
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "privacy.html",
+      "pass": true
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "thank-you.html",
+      "pass": true
+    },
+    {
+      "site": "car-advisor-chicago",
+      "page": "wisconsin-used-car-checklist.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "404.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "arabic/index.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "california/index.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "chicago/index.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "dallas/index.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "dearborn/index.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "detroit/index.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "florida/index.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "houston/index.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "illinois-contract-checklist.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "index.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "indiana-financing-questions.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "inventory.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "maryland/index.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "new-jersey/index.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "new-york/index.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "privacy.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "texas/index.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "thank-you.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "virginia/index.html",
+      "pass": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "page": "wisconsin-financing-questions.html",
+      "pass": true
+    }
+  ],
+  "forms": [
+    {
+      "site": "my-car-advisor",
+      "mockedPostSuccess": true,
+      "mockedPostFailure": true,
+      "retryPreservesFields": true,
+      "replyToEmail": true,
+      "attribution": true,
+      "duplicateChatSubmitPrevented": true
+    },
+    {
+      "site": "car-advisor-chicago",
+      "mockedPostSuccess": true,
+      "mockedPostFailure": true,
+      "retryPreservesFields": true,
+      "replyToEmail": true,
+      "attribution": true,
+      "duplicateChatSubmitPrevented": true
+    },
+    {
+      "site": "islamic-car-financing",
+      "mockedPostSuccess": true,
+      "mockedPostFailure": true,
+      "retryPreservesFields": true,
+      "replyToEmail": true,
+      "attribution": true,
+      "duplicateChatSubmitPrevented": true
+    }
+  ],
+  "issues": []
+}

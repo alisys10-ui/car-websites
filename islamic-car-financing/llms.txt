@@ -1,0 +1,7 @@
+# Islamic Car Finance USA
+
+Independent vehicle-shopping assistance by Ali Sayes. Not a lender. No guaranteed inventory, approval, APR or religious certification.
+
+- [Vehicle finder](https://islamic-car-finance-usa.netlify.app/inventory.html): Source listings when available; shoppers remain on this site.
+- [Privacy](https://islamic-car-finance-usa.netlify.app/privacy.html)
+- Contact: alisys10@gmail.com

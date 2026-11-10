@@ -1,0 +1,3 @@
+31 JavaScript files passed node --check.
+Six Netlify functions bundled successfully using esbuild, platform node, target node22, format esm.
+Native Netlify packaging/runtime has not been deployed or verified.

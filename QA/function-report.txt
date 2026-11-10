@@ -1,0 +1,1 @@
+PASS: inventory/AI contract and failure checks (synthetic fixtures, no live API calls).

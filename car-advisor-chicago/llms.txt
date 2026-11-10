@@ -1,0 +1,7 @@
+# Car Advisor Chicago
+
+Independent vehicle-shopping assistance by Ali Sayes. Not a lender. No guaranteed inventory, approval, APR or religious certification.
+
+- [Vehicle finder](https://caradvisorchicago.netlify.app/inventory.html): Source listings when available; shoppers remain on this site.
+- [Privacy](https://caradvisorchicago.netlify.app/privacy.html)
+- Contact: alisys10@gmail.com
